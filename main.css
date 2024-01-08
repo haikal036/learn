@@ -1,6 +1,25 @@
-.child {
-    position: relative;
-    left: 70px;
-    padding-top: 30px;
-    padding-bottom: 30px;
+.custom-row {
+    border-bottom: 10px solid #dee2e6;
+}
+.custom-row:last-child {
+    border-bottom: none;
+}
+
+.card {
+    border-style: groove;
+    border-radius: 0px;
+    padding-bottom: 10px;
+}
+
+.card-body {
+    border-style: groove;
+    border-radius: 20px;
+    padding: 1%;
+    padding-block: auto;
+    align-content:center;
+}
+
+.fa-bars{
+align-items: center;
+padding: 10px;
 }
