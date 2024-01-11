@@ -9,11 +9,7 @@
 }
 
 .card-body {
-    border-style: groove;
     border-radius: 20px;
-    padding: 1%;
-    padding-block: auto;
-    align-content:center;
 }
 
 .fa-bars{
